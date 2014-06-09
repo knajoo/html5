@@ -65,17 +65,16 @@ article	{width: auto;
 	margin-left: auto;
 	margin-right: auto}
 
-article header {
-	border: solid 1px #aaaaaa;
+article header {border: solid 1px #aaaaaa;
                 margin: 20px 0 10px;
-}
+                padding: 18px}
 
 article header h1	{background: none;
 	font-size: 28px;
 	color: #000000;
 	line-height: 45px;
 	padding-left: 0;
-	margin-bottom: 0;
+	margin: 0;
 	font-weight: normal}
 
 article section	{clear: both}
@@ -93,8 +92,8 @@ article section h1	{background: none;
 article p	{font-size: 0.75em;
 	line-height: 1.6;
 	margin-top: 10px;
-	margin-left: 12px;
-	margin-right: 12px}
+	margin-left: 0;
+	margin-right: 0}
 
 /* フッター */
 footer	{color: #ffffff;
